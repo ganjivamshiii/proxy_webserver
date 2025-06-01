@@ -1,0 +1,40 @@
+# Object files
+*.o
+*.obj
+
+# Compiled binary
+*.exe
+*.out
+*.elf
+
+# Dependency files
+*.d
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# Makefile auto-generated files
+Makefile.in
+Makefile~
+
+# Debugging symbols and core dumps
+*.stackdump
+core
+core.*
+
+# IDE-specific (optional)
+.vscode/
+*.code-workspace
+*.sublime*
+.idea/
+*.DS_Store
+
+# Logs
+*.log
